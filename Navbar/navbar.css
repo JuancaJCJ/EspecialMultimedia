@@ -1,0 +1,14 @@
+nav.navbar{
+    background-color: #21323f;
+}
+.menu{
+   background-color: #21323f;
+   border: transparent;
+}
+.name{
+    font-family: 'Concert One', cursive;
+    color: white;
+    font-size: 20pt;
+    margin-bottom: 0; 
+}
+
