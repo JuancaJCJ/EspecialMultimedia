@@ -12,6 +12,9 @@ nav.navbar{
     font-size: 20pt;
     margin-bottom: 0; 
 }
+.logo{
+    align-items: center;
+}
 
 .botonsub{
     background-color: #21323f;
