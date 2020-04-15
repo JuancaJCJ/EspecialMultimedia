@@ -3,7 +3,7 @@
     background-color: white;
 }
 .social{
-    border: solid 1px red;
+    /* border: solid 1px red; */
     width: 100vw;
     height: 45vh;
     padding-top: 0;
@@ -11,21 +11,18 @@
 
 }
 .socard{
-    border: solid 1px blue;
+    /* border: solid 1px blue; */
     width: 90vw;
     height: 30vh;
 
 }
-.card-img{
-    border: solid 1px purple;
-}
 .cardimg{
-    border: solid 1px green;
+    /* border: solid 1px green; */
     width: 30vw;
     height: 30vh;   
 }
 .carte{
-    border: solid 1px hotpink;
+    /* border: solid 1px hotpink; */
     width: 10vw;
     height: 30vh;
     padding-left: 30%;
