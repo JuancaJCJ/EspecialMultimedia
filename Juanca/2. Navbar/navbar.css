@@ -1,0 +1,30 @@
+nav.navbar{
+    background-color: #21323f;
+    border-bottom: solid 1px #375368;
+}
+.menu{
+   background-color: #21323f;
+   border: transparent;
+}
+.name{
+    font-family: 'Concert One', cursive;
+    color: white;
+    font-size: 20pt;
+    margin-bottom: 0; 
+}
+
+.botonsub{
+    background-color: #21323f;
+    border: transparent;
+}
+.menusub{
+    background-color: #21323f;
+    width: 80%;
+}
+.subca1, .subca2{
+    font-family: 'Concert One', cursive;
+    color: white;
+    font-size: 12pt;
+    margin-bottom: 0; 
+}
+
