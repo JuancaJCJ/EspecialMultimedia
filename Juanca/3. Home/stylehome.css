@@ -35,14 +35,8 @@ body{
 .titlecard{
     font-family: 'Source Sans Pro', sans-serif;
 }
-.net{
-    /* border: solid 1px purple; */
-    
-}
 .column1, .column2{
     /* border: solid 1px red; */
     width: 45vw;
-    
-    
 }
 
