@@ -1,0 +1,38 @@
+nav.navbar{
+    background-color: #0c5991;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+
+}
+
+.menu{
+   background-color: #0c5991;
+   border: transparent;
+
+}
+.name{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 15pt;
+    margin-bottom: 0; 
+    margin-left: 10px;
+
+}
+
+
+.Navbarlogo{
+    width: 40px;
+}
+
+
+
+.subcategory-name{
+    border-left: 1px solid rgba(255, 255, 255, 0.616);
+    color: white;
+    font-family: 'Montserrat', sans-serif;    
+    font-size: 13pt;
+    padding-left: 8px;
+    margin-left: 8px;
+}
