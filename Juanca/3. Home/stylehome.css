@@ -1,0 +1,48 @@
+body{
+    background-color: #21323f; 
+}
+.main{
+    /* border: solid blue 1px;  */
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: start;
+}
+/*  */
+.homeca , .carousel-inner{
+    /* border: solid red 1px; */
+    width: 100%;
+    height: 86vh; 
+}
+.seudofooter{
+    /* border: solid 1px green; */
+    background-color:#213240;
+    width: 100%;
+    height: 6.8vh; 
+}
+.textfo{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.netmenu, .acard{
+    background-color: #21323f;
+}
+.textcard{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.titlecard{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.net{
+    /* border: solid 1px purple; */
+    
+}
+.column1, .column2{
+    /* border: solid 1px red; */
+    width: 45vw;
+    
+    
+}
+
