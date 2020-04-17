@@ -1,0 +1,155 @@
+.divimg{
+    background-image:url(./assetss/bg-01.jpg),linear-gradient(to right, #8fc6f5,#d875f8);
+    background-blend-mode: soft-light;
+    background-position: center;
+    background-size: 120%;
+    padding: 15px;
+}
+
+
+
+.card-container{
+    width: 390px;
+    padding: 50px 55px 30px 55px;
+    background: #fff;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.text-signin{
+
+    font-family: 'Asap Condensed', sans-serif;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.imgtech{
+    width: 40px;
+    margin-bottom: 20px;
+}
+
+.email-container{
+    padding: 0px;
+}
+
+
+
+.input-email{
+    width: 280px;
+    height: 62px;
+    border: 0px;
+    border-bottom: 1px solid rgb(168, 168, 168);
+  
+}
+
+
+.password-container{
+    padding: 0px;
+    margin-bottom: 1px;
+
+}
+
+
+.input-password{
+
+    width: 280px;
+    height: 62px;
+    border: 0px;
+    border-bottom: 1px solid rgb(168, 168, 168);
+    margin-bottom: 5px;
+}
+
+.forget-password-container{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.forget-password{
+    text-align: end;
+    font-size: 10px;
+    color: #999999;
+}
+
+.button-login{
+    
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #bd59d4;
+    color: white;
+}
+
+.button-login:hover{
+    opacity: 0.7;
+}
+
+.button-login:focus{
+    outline: none;
+}
+
+
+.not-account-container{
+    margin-top: 30px;
+}
+
+.not-account-text{
+    text-align: center;
+    font-size: 15px;
+    color: #929292;
+}
+
+.create-one-text{
+    text-align: center;
+    font-size: 15px;
+}
+
+.orlogin-container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.orlogin{
+    text-align: center;
+    font-size: 13px;
+    color: #999999;
+}
+
+.icons-container{
+    width: 100px;
+}
+
+.fa {
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    color: #3B5998;
+}
+
+.fa-google {
+    color: #dd4b39;
+}
+
+.fa-instagram {
+    color: #125688;
+}
+
+.text-end-container{
+    margin-top: 30px;
+}
+
+.text-end{
+    text-align: center;
+    font-size: 10px;
+    color: #999999;
+}
+
+
+
