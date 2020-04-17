@@ -70,10 +70,9 @@
     border: solid 3px black;
     border-radius: 2vw;
     width: 60vw;
-    height: 90vh;
+    height: 150vh;
 }
 .textusu{
-    color: ;
     font-family:'Open Sans', sans-serif;
     font-size: 2vw;
     margin-left: 1.5vw;
@@ -89,4 +88,7 @@
 }
 .percar1{
     margin-top: 1vh;
+}
+.perrel{
+    
 }

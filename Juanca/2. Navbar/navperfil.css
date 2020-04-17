@@ -1,0 +1,15 @@
+.imgnavper{
+    background-color: #21323f;
+    border: transparent;
+    border-radius: 5vw;
+}
+.imgnavper2{
+    width: 2.8vw;
+    height: 5vh;
+    border-radius: 5vw;
+    object-fit: cover;
+    background-color: #21323f;
+}
+.navbotper{
+    color: white;
+}
