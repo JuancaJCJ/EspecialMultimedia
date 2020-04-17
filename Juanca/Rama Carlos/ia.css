@@ -1,0 +1,60 @@
+a:link{
+    text-decoration: none;
+}
+
+
+.fa {
+    font-size: 25px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    color: #3B5998;
+    
+}
+
+.fa-twitter {
+    color: #55ACEE;
+}
+
+.fa-tumblr {
+    color: #2c4762;
+}
+
+
+.footer{
+    border-top: 3px solid #0c5991;
+    padding: 15px 15px;
+}   
+
+.footer-logo{
+    width: 60px;
+}
+
+.copyright-container{
+    border-right: 1px solid #DDD;
+    border-left: 1px solid #DDD;
+    width: 60em;
+    padding: 0px 45px;
+}
+
+.copyright-text{
+    font-size: 12px;
+    margin: 0px;   
+}
+
+.follow-text{
+    font-size: 11px;
+}
+
+.follow-list{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.fa-instagram {
+    color: #E73D66;
+  }
+

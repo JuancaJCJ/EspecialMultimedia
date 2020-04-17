@@ -1,0 +1,50 @@
+.leftnews{
+    width: 800px;
+
+}
+
+#ibmstyle{
+    color: #791d1e;
+}
+
+#ibmstyle:hover{
+    color: #756666;
+}
+
+.cardscontainers{
+    border-top: 1px solid #DDD;
+}
+
+.video-card{
+    border-top: 1px solid #DDD;
+    margin-bottom: 30px;
+}
+
+.share-card{
+    background-color: #f6f6f6;
+    border: 0px;
+}
+
+.share-card-text{
+
+    font-size: 18px;
+    margin: 4px 0px 0px 0px;
+}
+
+.social-list{
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.similar-post{
+    margin: 30px 0px;
+}
+
+.similar-post-a-edit{
+    color: darkblue;
+}
+
+.similar-post-a-edit:hover{
+    color: rgb(173, 173, 212);
+}
+

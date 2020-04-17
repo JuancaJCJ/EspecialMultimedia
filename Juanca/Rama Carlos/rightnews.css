@@ -1,0 +1,50 @@
+.card-right{
+    border: 0px;
+    background-color: #F6F6F6;
+    width: 15rem;
+    padding: 10px;
+}
+
+.first-section{
+    margin-bottom: 40px;
+}
+
+
+.card-right-content-img{
+    margin-top: 15px;
+}
+
+
+.first-text-edit{
+    color: black;
+    text-align: center;
+    font-size: 13px;
+}
+
+.second-text-edit{
+    color: black;
+    text-align: start;
+    font-size: 13px;
+    margin: 20px 0px;
+}
+
+.list{
+    padding-left: 0px;
+}
+
+li{
+    font-size: 12px;
+    list-style: none;
+}
+
+
+.third-text-edit{
+    margin: 20px 0px;
+    font-size: 13px;
+    text-align: start;
+}
+
+.category-text-a-list{
+    color: rgb(65, 50, 50);
+ }
+ 
