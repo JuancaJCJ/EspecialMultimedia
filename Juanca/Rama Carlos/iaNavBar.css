@@ -18,15 +18,11 @@ nav.navbar{
     font-size: 15pt;
     margin-bottom: 0; 
     margin-left: 10px;
-
 }
-
 
 .Navbarlogo{
     width: 40px;
 }
-
-
 
 .subcategory-name{
     border-left: 1px solid rgba(255, 255, 255, 0.616);
@@ -37,9 +33,6 @@ nav.navbar{
     margin-left: 8px;
 }
 
-
 .navbar-boton-login{
-
     color: white;
-
 }
