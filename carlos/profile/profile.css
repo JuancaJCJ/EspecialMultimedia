@@ -1,0 +1,261 @@
+nav.navbar{
+    background: linear-gradient(#f77a82,#b556d3);
+    left: 0;
+    top: 0;
+    width: 100%;
+   
+
+}
+
+.menu{
+   background-color: #0c5991;
+   border: transparent;
+
+}
+.name{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 15pt;
+    margin-bottom: 0; 
+    margin-left: 10px;
+
+}
+
+
+a:link{
+    text-decoration: none;
+}
+
+.Navbarlogo{
+    width: 40px;
+}
+
+
+
+.subcategory-name{
+    border-left: 1px solid rgba(255, 255, 255, 0.616);
+    color: white;
+    font-family: 'Montserrat', sans-serif;    
+    font-size: 13pt;
+    padding-left: 8px;
+    margin-left: 8px;
+}
+
+
+.father{
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+
+.contt{
+    margin-bottom: 100px;
+}
+
+.first-container{
+
+    width: 22%;
+}
+
+
+.second-container{
+
+    width: 48%;
+    margin-top: 40px;
+
+}
+
+.third-container{
+    width: 20%;
+
+}
+
+
+.imgs{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+.img-back-profile{
+    position:absolute;
+    height:150px;
+    width:267px;
+    top: 0px;
+    left : 0px;
+    z-index: 1;
+}
+
+
+.profileimg{
+    position:absolute;
+    height:95px;
+    width:95px;
+    z-index: 1;
+    margin: 95px 0px 0px 85px;
+    border: 3px solid white;
+}
+
+.info-container{
+    margin-top: 180px;
+}
+
+.username-text{
+
+    font-size: 18px;
+    font-family: 'Manrope', sans-serif;
+
+
+}
+
+.info-text{
+
+    font-size: 12px;
+    font-family: 'Karla', sans-serif;
+
+
+}
+
+.followers-container{
+    border-top: 2px solid #DDD;
+    padding-top: 10px;
+    font-size: 13px;
+    font-family: 'Manrope', sans-serif;
+}
+
+.follow-numbers-container{
+    font-size: 11px;
+    font-family: 'Manrope', sans-serif;
+    margin-bottom: 15px;
+}
+
+
+
+.new-post{
+    border-top: 3px solid rgb(255, 94, 0);
+}
+
+
+.imgfriends{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.img-newpost{
+
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+
+}
+
+.new-post-text{
+    padding-top: 12px;
+}
+
+.username-img{
+
+    border: 1px solid black;
+}
+
+.number-comments {
+    padding: 15px 15px;
+}
+
+
+.comments button {
+    border: none;
+}
+
+.new-comment {
+
+    width: 100%;
+    float: left;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 10px 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+}
+
+.add-comment {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    margin-bottom: 50px;
+}
+.commentator-img {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 100%;
+    border: 2px solid #ffffff;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+.add-comment .commentator-name {
+    width: 100%;
+    padding-left: 75px;
+    top: 20px;
+    left: 0px;
+}
+.add-comment input {
+    border-top: 0px;
+    border-bottom: 1px solid #ccc;
+    border-left: 0px;
+    border-right: 0px;
+    outline: 0px;
+    box-shadow: none;
+    border-radius: 0;
+    width: 100%;
+    padding: 0;
+    font-weight: normal;
+}
+
+.add-comment button {
+    background-color: #3f6ca0;
+    margin: 10px 5px;
+    font-size: 14px;
+    float: right;
+}
+
+.comment-time {
+    font-weight: normal;
+    margin-left: 8px;
+    font-size: 15px;
+}
+.commentary {
+    font-size: 15px;
+    padding: 0px 0px 15px;
+}
+.commentator-name {
+    display: inline-block;
+    top: -20px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+
+}
+.icons-container{
+    font-size: 14px;
+    color: #333;
+    padding: 2px 5px 0px;
+    line-height: 20px;
+    float: right;
+}
+
+.comments .replied {
+    background-color: #fff;
+    width: 95%;
+    float: right;
+    margin-top: 15px;
+}
+
+
+

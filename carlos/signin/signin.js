@@ -13,17 +13,19 @@ let boton = document.getElementById('boton');
 
 let prueba = document.getElementById('prueba');
 
+
+let correo = [];
+
 const confimacin = () => {
 
    
-    if(username.value != email.value){
-        prueba.innerHTML = username.value + " y " + email.value + " NO SON IGUALES";
-    } else{ 
-       prueba.innerHTML = "SON IGUALES";
-    }
-    
+        correo.push(email.value);
+   
+    alert(correo[0]);
 
 }
+
+
 
 
 boton.addEventListener('click', confimacin);

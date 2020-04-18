@@ -7,19 +7,41 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Open+Sans:wght@700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="stylehome.css">
-    <link rel="stylesheet" href="../Navbar/navbar.css">
+    <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Source+Sans+Pro:wght@600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../2. Navbar/navbar.css">
+    <link rel="stylesheet" href="../3. Home/stylehome.css">
+    <link rel="stylesheet" href="../4. Social/socialstyle.css">
     
     
-    <title>Home</title>
+    <title>TechRed|Home</title>
   </head>
 
   <body>
     <navbar>
-        <nav class="navbar navbar-light bg-light">
-            <a class="navbar-brand" href="#">Default</a>
-        </nav>    
+        <nav class="navbar navbar-dark navbar fixed-top d-flex">
+        <div class="d-flex justify-content-start align-items-center">
+            <buttom class="logo menu btn btn-secondary btn-sm btn-dark"><img src="../Assets/Logosinbk.png" alt="Menú"></buttom>
+            <a href="../1. JuancaMas/masjcj.html"><h2 class="name">TechRed</h2></a>
+            <div class="subnav">  
+              <button type="button" class="botonsub btn btn-secondary dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <span class="sr-only">Toggle Dropdown</span>
+              </button>
+              <div class="menusub dropdown-menu">
+                <ul class="nav d-flex justify-content-around">
+                  <a href="../4. Social/social.html"><h2 class="subca1">Social</h2></a>
+                  <a href="AÑADIR ENTRADA"><h2 class="subca1">|</h2></a>
+                  <a href="AÑADIR ENTRADA"><h2 class="subca1">Inteligencia artificial</h2></a>
+                  <a href="AÑADIR ENTRADA"><h2 class="subca2">Software</h2></a>
+                  <a href="AÑADIR ENTRADA"><h2 class="subca1">Hardware</h2></a>
+                  <a href="AÑADIR ENTRADA"><h2 class="subca2">Electrónica</h2></a>
+                  <a href="AÑADIR ENTRADA"><h2 class="subca1">Viajes espaciales</h2></a>
+               </ul>
+              </div>
+            </div>  
+        </div>
+          <button class="btn btn-outline-light" type="button">Iniciar sesión</button>
+      </nav>
     </navbar>
     <main class="main d-flex flex-column">
         <div class="homeca">
